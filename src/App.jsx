@@ -733,7 +733,7 @@ const App = () => {
               </div>
             </div>
           </div>
-          <footer className='w-full flex justify-center h-[10vh] items-center pt-[100px]'>
+          <footer className='w-full flex justify-center h-[10vh] items-center pt-[100px] bg-black'>
             <div className='w-[50%] flex ml-[-460px]'>
               <p>Copyright c 2084 Your Company Name | Design: <span className='text-blue-600'>templatemo</span></p>
               <FaFacebookF className='text-md ml-6' />
